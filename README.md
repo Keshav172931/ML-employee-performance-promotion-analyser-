@@ -32,8 +32,8 @@ This project analyzes employee data to understand patterns and factors influenci
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/employee-promotion-analysis.git
-   cd employee-promotion-analysis
+   git clone https://github.com/Keshav172931/ML-employee-performance-promotion-analyser-.git 
+   cd ML-employee-performance-promotion-analyser-
 
 2. Install required packages
    ```bash
